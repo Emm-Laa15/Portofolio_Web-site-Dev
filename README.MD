@@ -1,7 +1,7 @@
 # Portofolio_Web-Site_Dev-Riasss
 
 ## Descriere
-Proiectul Numele Proiectului este un site web portofoliu modern destinat dezvoltatorilor pentru a-și prezenta lucrările și abilitățile într-un mod interactiv și atractiv. Site-ul folosește animații pentru a evidenția abilitățile și proiectele dezvoltatorului.
+Portofolio_Web-Site_Dev-Riasss este un site web portofoliu modern destinat dezvoltatorilor pentru a-și prezenta lucrările și abilitățile într-un mod interactiv și atractiv. Site-ul folosește animații pentru a evidenția abilitățile și proiectele dezvoltatorului.
 
 ## Caracteristici Principale
 - Design modern și receptiv
